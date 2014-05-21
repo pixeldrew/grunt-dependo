@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "dependo": "~0.1.1"
+    "dependo": "https://github.com/pixeldrew/dependo/tarball/master"
   }
 }
