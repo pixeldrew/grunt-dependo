@@ -29,7 +29,7 @@
     "node >= 0.8.0"
   ],
   "dependencies": {
-    "dependo": "~0.1.0"
+    "dependo": "https://github.com/pixeldrew/dependo/tarball/master"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
